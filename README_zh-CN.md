@@ -48,11 +48,13 @@
                 邮箱: 
             </span>
             <span className="value">
-                <Space split={', '}>
+                <span>
                     <span><a href="mailto:2311486045@qq.com">2311486045@qq.com</a> (在中国使用)</span>
+                    ，
                     <span><a href="mailto:xianjin404@gmail.com">xianjin404@gmail.com</a> (国际使用)</span>
+                    ，
                     <span><a href="mailto:dahufa2100@gmail.com">dahufa2100@gmail.com</a> (国际使用)</span>
-                </Space>
+                </span>
             </span>
         </div>
         <div className="item">
