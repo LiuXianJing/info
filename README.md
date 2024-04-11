@@ -79,12 +79,33 @@
         </div>
         <div className="item">
             <span className="label">
+                blog: 
+            </span>
+            <span className="value">
+                <a href="https://juejin.cn/user/704157640556957/posts">
+                https://juejin.cn/user/704157640556957/posts
+                </a>
+            </span>
+        </div>
+        <div className="item">
+            <span className="label">
+                blog: 
+            </span>
+            <span className="value">
+                <a href="https://blog.csdn.net/Liu_csdn_csdn">
+                https://blog.csdn.net/Liu_csdn_csdn
+                </a>
+            </span>
+        </div>
+        <div className="item">
+            <span className="label">
                 Description: 
             </span>
             <span className="value">
                 I am an IT practitioner with strong full-stack development capabilities. My technical expertise includes front-end/back-end/operation and maintenance/algorithms, etc. If you have any project development projects, may contact me.
                 Technology stack:
-                React, Vue, HTML, CSS, JavaScript, Node.js, Golang, Java, Python, C/C++, MySQL, Redis, and more.
+                React、Vue、HTML、CSS、TypeScript、Node.js、Golang、Java、Python、C/C++、MySQL、Redis、MongoDB, and so on。
+                Others：Next.js、Nest.js、Express、Spring Boot、Flask, and so on.
                 And I can also do hardware related work.
             </span>
         </div>

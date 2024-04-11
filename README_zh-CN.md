@@ -79,12 +79,33 @@
         </div>
         <div className="item">
             <span className="label">
+                博客: 
+            </span>
+            <span className="value">
+                <a href="https://juejin.cn/user/704157640556957/posts">
+                https://juejin.cn/user/704157640556957/posts
+                </a>
+            </span>
+        </div>
+        <div className="item">
+            <span className="label">
+                博客: 
+            </span>
+            <span className="value">
+                <a href="https://blog.csdn.net/Liu_csdn_csdn">
+                https://blog.csdn.net/Liu_csdn_csdn
+                </a>
+            </span>
+        </div>
+        <div className="item">
+            <span className="label">
                 描述: 
             </span>
             <span className="value">
-                我是一名IT从业者，拥有较强的全栈开发能力，技术涉猎有前端/后端/运维/算法，等等。有项目开发可以找我。
+                我是一名IT从业者，拥有较强的全栈开发能力，技术涉猎有前端/后端/运维/算法/web3，等等。
                 技术栈：
-                React、Vue、HTML、CSS、JavaScript、Node.js、Golang、Java、Python、C/C++、MySQL、Redis 等。
+                React、Vue、HTML、CSS、TypeScript、Node.js、Golang、Java、Python、C/C++、MySQL、Redis、MongoDB等。
+                其它框架：Next.js、Nest.js、Express、Spring Boot、Flask等
                 而且我还可以做硬件相关的工作。
             </span>
         </div>
