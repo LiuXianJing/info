@@ -37,14 +37,6 @@
         </div>
         <div className="item">
             <span className="label">
-                Birthday: 
-            </span>
-            <span className="value">
-                1996.3
-            </span>
-        </div>
-        <div className="item">
-            <span className="label">
                 Email: 
             </span>
             <span className="value">

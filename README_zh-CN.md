@@ -37,14 +37,6 @@
         </div>
         <div className="item">
             <span className="label">
-                生日: 
-            </span>
-            <span className="value">
-                1996.3
-            </span>
-        </div>
-        <div className="item">
-            <span className="label">
                 邮箱: 
             </span>
             <span className="value">
