@@ -94,7 +94,7 @@
                 描述: 
             </span>
             <span className="value">
-                我是一名IT从业者，拥有较强的全栈开发能力，技术涉猎有前端/后端/运维/算法/web3，等等。
+                我是一名IT从业者，拥有多年开发经验,拥有较强的全栈开发能力，技术涉猎有前端/后端/运维/算法/web3，等等。
                 技术栈：
                 React、Vue、HTML、CSS、TypeScript、Node.js、Golang、Java、Python、C/C++、MySQL、Redis、MongoDB等。
                 其它框架：Next.js、Nest.js、Express、Spring Boot、Flask等

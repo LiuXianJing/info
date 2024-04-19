@@ -94,7 +94,7 @@
                 Description: 
             </span>
             <span className="value">
-                I am an IT practitioner with strong full-stack development capabilities. My technical expertise includes front-end/back-end/operation and maintenance/algorithms, etc. If you have any project development projects, may contact me.
+                I am an IT practitioner with strong full-stack development capabilities, Have many years of development experience. My technical expertise includes front-end/back-end/operation and maintenance/algorithms, etc. If you have any project development projects, may contact me.
                 Technology stack:
                 React、Vue、HTML、CSS、TypeScript、Node.js、Golang、Java、Python、C/C++、MySQL、Redis、MongoDB, and so on。
                 Others：Next.js、Nest.js、Express、Spring Boot、Flask, and so on.
